@@ -10,7 +10,7 @@ export const Bio = {
       "I am a highly motivated and results-driven Software Professional with a strong foundation in Data science, Data engineering, and automation. With a passion for solving complex problems, I thrive on building scalable, high-performance systems and leveraging data-driven insights to drive impactful solutions.",
     github: "https://github.com/maheshdsj",
     resume:
-      "https://drive.google.com/file/d/1sCJiwrmEeHCgyGpT7TFrWJim615lod5Q/view?usp=sharing",
+      "https://drive.google.com/file/d/1gd_c9DohGOLyfrfJnwOhBK45Sbekzdfr/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/maheshdasararaju/",
     email: "https://mail.google.com/mail/?view=cm&fs=1&to=dsjmahesh318@gmail.com",
     phone: "tel: +17373151425"
