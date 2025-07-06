@@ -272,6 +272,8 @@ export const Bio = {
       date: "January 2022 - August 2023",
       desc: "• Monitored and managed multiple production systems handling sensitive data from over 5 million customers, ensuring system uptime, data consistency, and timely processing of customer-level information across critical pipelines.\n" +
           "• Conducted root cause analysis on 50+ daily incidents, identifying systemic patterns and process gaps, leading to the implementation of 150+ permanent fixes across interdependent platforms including customer messaging, analytics pipelines, and compliance systems.\n" +
+
+"• Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards.\n" +
 "• Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards.\n" +
 "• Designed anomaly detection scripts to proactively identify data mismatches and anomalies using statistical control methods (mean variance checks, z-scores, trend deviation) across structured datasets.",
       skills: [
