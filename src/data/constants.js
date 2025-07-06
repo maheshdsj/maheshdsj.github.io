@@ -270,12 +270,7 @@ export const Bio = {
       role: "Analyst",
       company: "Tata Consultancy Services",
       date: "January 2022 - August 2023",
-      desc: "• Monitored and managed multiple production systems handling sensitive data from over 5 million customers, ensuring system uptime, data consistency, and timely processing of customer-level information across critical pipelines.\n" +
-          "• Conducted root cause analysis on 50+ daily incidents, identifying systemic patterns and process gaps, leading to the implementation of 150+ permanent fixes across interdependent platforms including customer messaging, analytics pipelines, and compliance systems.\n" +
-
-"• Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards.\n" +
-"• Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards.\n" +
-"• Designed anomaly detection scripts to proactively identify data mismatches and anomalies using statistical control methods (mean variance checks, z-scores, trend deviation) across structured datasets.",
+      desc: "Monitored and managed multiple production systems handling sensitive data from over 5 million customers, ensuring system uptime, data consistency, and timely processing of customer-level information across critical pipelines.Conducted root cause analysis on 50+ daily incidents, identifying systemic patterns and process gaps, leading to the implementation of 150+ permanent fixes across interdependent platforms including customer messaging, analytics pipelines, and compliance systems. Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards. Coordinated data validation across platforms that handled PII and GDPR-sensitive information, ensuring 100% compliance with data privacy regulations and internal data governance standards. Designed anomaly detection scripts to proactively identify data mismatches and anomalies using statistical control methods (mean variance checks, z-scores, trend deviation) across structured datasets.",
       skills: [
         "Python (Pandas, Scikit-learn, TensorFlow, NLTK)",
         "IT Business Analysis",
@@ -292,10 +287,7 @@ export const Bio = {
       role: "Systems Engineer",
       company: "Tata Consultancy Services",
       date: "Spetember 2020 - December 2021",
-      desc: "• Standardized data operations across systems with varying functions (e.g., personal identity management, message dispatching, statistical processing) by implementing unified data lineage tracking, and introducing checkpoints at critical integration points.\n" +
-"• Wrote and optimized complex SQL queries (with joins, window functions, CTEs) that improved reporting performance and reduced ETL runtimes by 30–40%, contributing to faster daily batch processing and inventory data reconciliation.\n" +
-"• Led documentation efforts for cross-system SOPs, contributing to a centralized data quality playbook and training resources for onboarding new analysts and ensuring process repeatability.\n" +
-"• Partnered with cross-functional teams (engineering, product, compliance) to develop data cleansing and normalization strategies, boosting downstream report accuracy and business trust in analytics.",
+      desc: "Standardized data operations across systems with varying functions (e.g., personal identity management, message dispatching, statistical processing) by implementing unified data lineage tracking, and introducing checkpoints at critical integration points. Wrote and optimized complex SQL queries (with joins, window functions, CTEs) that improved reporting performance and reduced ETL runtimes by 30–40%, contributing to faster daily batch processing and inventory data reconciliation. Led documentation efforts for cross-system SOPs, contributing to a centralized data quality playbook and training resources for onboarding new analysts and ensuring process repeatability. Partnered with cross-functional teams (engineering, product, compliance) to develop data cleansing and normalization strategies, boosting downstream report accuracy and business trust in analytics.",
       //doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
       skills: [
         "Python",
